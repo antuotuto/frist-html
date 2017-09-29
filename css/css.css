@@ -1,0 +1,371 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background:url("../image/sQbPcPjX4dLbIcU1HttfxmouJrd3r57xpzfLatCgWxaJYFItiUSyKGSi+BBgAus1YgwWQcIIAAAAASUVORK5CYII=.png") repeat-x;
+}
+.logo{
+    width: 1300px;
+    margin: 0 auto;
+}
+footer{
+    margin: 0 auto;
+    width: 1300px;
+    height: 950px;
+}
+.footer-all{
+    margin: auto;
+    width: 956px;
+    height: 950px;
+}
+.footer-left{
+    position: relative;
+    top: -7px;
+    width: 210px;
+    height: 960px;
+    float: left;
+    background: url("../image/left.png") no-repeat 0 -10px;
+}
+.footer-left-all{
+    width: 960px;
+    height: 960px;
+
+}
+.footer-right{
+    border-right: 1px solid #D2D3D3;
+    border-bottom: 1px solid #D2D3D3;
+    position: relative;
+    top:-7px;
+    width: 745px;
+    height: 889px;
+    float:left;
+    background:#F8FDFF;
+}
+.footer-left-all h1{
+    height: 20px;
+    width: 210px;
+}
+.qq-login{
+    height: 85px;
+    width: 210px;
+}
+.go1{
+    /*background:url("../image/left2.png");*/
+    /*background-size: 210px 85px;*/
+}
+/*.qq-login:hover{*/
+    /*background: rgba(255, 255, 255, 0.5);*/
+    /*border-radius:12px;*/
+/*}*/
+.footer-left-all p{
+    padding-top: 5px;
+    display:inline-block;
+    padding-left: 17px;
+    font-size: 13px;
+    color: #616c72;
+}
+.footer-left-all h2{
+    padding-top: 20px;
+    display:inline-block;
+    padding-left: 40px;
+    color: #616c72;
+}
+.spana{
+    height: 150px;
+    width: 180px;
+    /*background:red;*/
+}
+.phone{
+    height: 200px;
+    width: 200px;
+    background:url("../image/wswAGfLAC0Jma6fAAAAAElFTkSuQmCC.png") 6px 350px;
+}
+.phone ul{
+    width: 100px;
+    position: relative;
+    top: 90px;
+    left: 50px;
+}
+.phone ul li{
+    display: block;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    top: 100px;
+    font-size: 13px;
+    color: #616c72;
+}
+.phone ul li:nth-child(1):hover{
+    color: #4775ff;
+}
+.img-b{
+    height: 210px;
+    width: 750px;
+
+}
+.img-b img{
+    margin-top: 20px;
+    margin-left: 55px;
+}
+.zhuCe{
+    height: 50px;
+    width: 612px;
+    margin: 0 auto;
+}
+.zhuCe h3{
+    display:inline-block;
+    margin-bottom: 7px;
+}
+.block{
+    height: 20px;
+    width: 5px;
+    margin-bottom: -4px;
+    background:#59AFE4;
+    display: inline-block;
+}
+.right-all-all{
+    height: 360px;
+    width: 720px;
+}
+.footer-right-l,
+.footer-right-m,
+.footer-right-r{
+    float: left;
+}
+.footer-right-l{
+    height: 360px;
+    width: 200px;
+}
+.footer-right-m{
+    height: 360px;
+    width: 300px;
+}
+.footer-right-r{
+    height: 360px;
+    width: 200px;
+}
+.footer-right-l ul li{
+    list-style:none;
+    text-align: right;
+    width: 200px;
+    height: 45px;
+    line-height: 45px;
+    font-size:14px;
+    color:#333;
+}
+.footer-right-m ul li{
+    list-style:none;
+    text-align: center;
+    width: 300px;
+    height: 45px;
+    line-height: 45px;
+}
+.footer-right-r ul li{
+    list-style:none;
+    text-align: left;
+    width: 200px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 13px;
+    color: #616c72;
+}
+.footer-right-m input{
+    padding-left: 5px;
+    width: 280px;
+    height: 30px;
+    border:1px solid #A7B6C3;
+    border-radius:3px;
+    font-size: 15px;
+    color: #616c72;
+    background:#F8FDFF;
+}
+.find{
+    clear: both;
+    height: 45px;
+    width: 540px;
+    margin-left: 200px;
+    /*background:red;*/
+}
+.footer-down{
+    height: 250px;
+    width: 700px;
+}
+.footer-down p{
+    font-size: 13px;
+    color: #616c72;
+}
+.down-f{
+    display: inline-block;
+    width: 140px;
+    height: 30px;
+    line-height: 35px;
+    border-radius:3px;
+}
+.btn1{
+    display: inline-block;
+    width: 130px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border:1px solid #A7B6C3;
+    border-radius:3px;
+    color:#7B7C7D;
+    background:#F8FDFF;
+    float: right;
+}
+.btn1-a{
+    background:lightsteelblue;
+}
+#test select {
+    width: 95px;
+    height: 30px;
+    font-size: 15px;
+}
+#test1 select {
+    width: 95px;
+    height: 30px;
+    font-size: 15px;
+}
+.day{
+    width: 68px;
+    height: 30px;
+}
+.an2016{
+    clear: both;
+}
+.btn2{
+    width: 295px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background:rgb(105, 185, 70);
+    border-radius:3px;
+    font-size: 20px;
+    color:white;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.footer-he{
+    height: 250px;
+    width: 200px;
+    float: left;
+}
+.footer-he-q{
+    height: 250px;
+    width: 300px;
+    float: left;
+}
+.footer-he-w{
+    height: 250px;
+    width: 200px;
+    float: left;
+}
+.find-k{
+    margin-bottom: 5px;
+}
+.blo{
+    width: 290px;
+    height: 60px;
+    margin: 0 auto;
+}
+.blo-a{
+    display: none;
+}
+
+.p-o{
+    display: inline-block;
+}
+.la{
+    padding-left: 5px;
+    padding-top: 10px;
+    height: 20px;
+    width: 300px;
+}
+.la-2{
+    padding-left: 5px;
+    padding-top: 3px;
+    height: 20px;
+    width: 300px;
+}
+.p-t{
+    display: inline-block;
+    margin-left: 5px;
+}
+
+
+
+
+
+
+.login-two{
+    display: none;
+}
+
+.off{
+    display: none;
+}
+.on{
+    display:block;
+}
+.back{
+    background:url("../image/left2.png");
+    background-size: 210px 85px;
+    color:white;
+}
+.color-font{
+    color:white;
+}
+.chanS{
+    width: 290px;
+    height: 45px;
+    border:1px solid #A7B6C3;
+    float: right;
+    line-height: 45px;
+}
+.btn3{
+    width: 295px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background:rgb(105, 185, 70);
+    border-radius:3px;
+    font-size: 20px;
+    color:white;
+
+}
+.clearer-l{
+    border:1px solid red !important;
+}
+.false-a{
+    color:red !important;;
+}
+.woman{
+    float: left;
+    height: 15px;
+    width:15px;
+    display: inline-block;
+}
+.man-val{
+    text-align: left;
+}
+.man1,
+.man2{
+    margin: 15px;
+    float: left;
+    height: 20px;
+    width:20px;
+    display: inline-block;
+}
+.man4,
+.man5{
+    background:url("../image/ipt.png") -298px -322px no-repeat;
+}
+.man3{
+    background:url("../image/ipt.png") -298px -354px no-repeat;
+}
+
+
+
+
+
